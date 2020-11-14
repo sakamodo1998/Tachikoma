@@ -3,7 +3,7 @@
 ## HARDWEAR
 raspberry pi 4B+ 4GB (raspberry pi os)  
 arduino uno  
-CAMERA: PiCamera
+CAMERA: PiCamera  
 LCD: ACM1602N1-FLW-FBW  
 GPS: GYSFDMAXB  
 DISTANCE SENSOR: GP2Y0A21YK0F  
